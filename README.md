@@ -1,13 +1,10 @@
-# Concept Design Prototype of an iPad Cover
+# A Commercial-Inspired Protective Cover for an iPad
 
 ## Summary
 
----
+Tablets and phones are among the devices people handle the most, and almost all of them are used with a protective cover. While looking at the covers sold for the iPad and for mobile phones, I became curious about how such a simple-looking product is shaped around the device it protects. This project began from that curiosity. I tried to mimic the design of commercial covers by modeling an iPad cover around my own tablet, the iPad Pro M2, and by studying the same idea on my mobile phone, the Samsung Galaxy J6.
 
-## Design Motivation
-
-| Name | Image |
-| :--: | :---: |
+The cover is a thin shell with a raised rim that wraps the edges of the tablet and holds it in place. Openings are cut into the shell so that the camera, the speakers, the volume buttons, and the charging port stay accessible while the cover is on. The main challenge was to place each opening in the right position and keep the rim uniform around the rounded corners, because a cover that is slightly off will either block a feature or fit loosely. Instead of drawing a flat box, I built the cover as a computational model in SolidWorks, so that every view, including the section view, shows how the wall, the rim, and the openings come together. This prototype is a base concept that can later be refined into a complete product.
 
 ---
 
@@ -26,11 +23,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |     Name      |
+| :-: | :-----------: |
+| 01  | Surface Sweep |
+| 02  | Surface Plane |
+| 03  | Surface Knit  |
+| 04  | Surface Trim  |
+| 05  |    Thicken    |
+| 06  | Boss Extrude  |
+| 07  |  Cut Extrude  |
+| 08  |    Fillet     |
+
+---
+
+## Image of the Tool Used
+
+![iPad Cover Tool Used](images/ipad_cover_tool_used.png)
 
 ---
 
