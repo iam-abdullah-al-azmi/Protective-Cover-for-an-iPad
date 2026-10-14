@@ -46,7 +46,7 @@ The cover is a thin shell with a raised rim that wraps the edges of the tablet a
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![iPad Cover Tool Used](images/ipad_cover_tool_used.png)
 
