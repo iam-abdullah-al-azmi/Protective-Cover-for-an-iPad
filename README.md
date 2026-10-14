@@ -75,6 +75,12 @@ The cover was designed as a single-model prototype. A fold line or hinge, a magn
 
 ---
 
+## Acknowledgements
+
+I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course.
+
+---
+
 ## References
 
 [^1]: [The week in iPad cases, stands, keyboards, and bags](https://www.macworld.com/article/224450/the-week-in-ipad-cases-stands-keyboards-and-bags.html)
