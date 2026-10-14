@@ -48,7 +48,10 @@ The cover is a thin shell with a raised rim that wraps the edges of the tablet a
 
 ## Feature Tree Image
 
-![iPad Cover Feature Tree](images/ipad_cover_feature_tree.png)
+| No  |                                  Name                                  |
+| :-: | :--------------------------------------------------------------------: |
+| 01  | ![iPad Cover Feature Tree One](images/ipad_cover_feature_tree_one.png) |
+| 02  | ![iPad Cover Feature Tree Two](images/ipad_cover_feature_tree_two.png) |
 
 ---
 
@@ -77,7 +80,7 @@ The cover was designed as a single-model prototype. A fold line or hinge, a magn
 
 ## Acknowledgements
 
-I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course.
+I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course. I took assistance from [Claude](https://claude.ai), an AI assistant by [Anthropic](https://www.anthropic.com), in preparing this documentation. I provided the template, and Claude followed it and my instructions.
 
 ---
 
